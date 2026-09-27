@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     classDef okNode fill:#90EE90,stroke:#228B22,stroke-width:3px
     classDef advertencia fill:#FF6347,stroke:#8B0000,stroke-width:3px
@@ -15,3 +16,4 @@ flowchart TD
     G:::advertencia --> Z
     I:::advertencia --> Z
     F:::okNode --> Z
+```
